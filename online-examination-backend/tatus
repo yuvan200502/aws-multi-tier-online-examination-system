@@ -1,0 +1,9 @@
+[33me4f3b4c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Remove SMTP secrets
+[33m509fbca[m Configure Brevo SMTP
+[33m0130aa6[m[33m ([m[1;31morigin/main[m[33m)[m Enable CORS
+[33m7c5ad15[m Update production API
+[33md7c3219[m Clean rebuild
+[33m18ffa77[m Add test endpoint
+[33m7066e93[m Remove PreAuthorize for testing
+[33m73c89fb[m Build fixes
+[33m8bbf13f[m Initial backend
