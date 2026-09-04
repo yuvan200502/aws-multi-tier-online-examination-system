@@ -1,0 +1,104 @@
+/* ===== PAGE ===== */
+.teacher-exams-page{
+    min-height:100vh;
+    padding:40px;
+    background:linear-gradient(to bottom,#0f172a,#020617);
+    color:#fff;
+}
+
+/* ===== HEADER ===== */
+.teacher-exams-header{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.teacher-exams-header h2{
+    font-size:38px;
+    color:#38bdf8;
+    margin-bottom:10px;
+}
+
+.teacher-exams-header p{
+    color:#94a3b8;
+    font-size:16px;
+}
+
+/* ===== GRID ===== */
+.exam-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:30px;
+}
+
+/* ===== CARD ===== */
+.exam-card{
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(14px);
+    border:1px solid rgba(56,189,248,.15);
+    border-radius:18px;
+    padding:25px;
+    transition:.3s;
+    box-shadow:0 10px 35px rgba(0,0,0,.4);
+}
+
+.exam-card:hover{
+    transform:translateY(-8px);
+    border-color:#38bdf8;
+    box-shadow:0 20px 40px rgba(56,189,248,.2);
+}
+
+/* ===== TITLE ===== */
+.exam-card h3{
+    color:white;
+    font-size:24px;
+    margin-bottom:20px;
+}
+
+/* ===== META ===== */
+.exam-meta{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:25px;
+    color:#cbd5e1;
+    font-size:15px;
+}
+
+/* ===== BUTTON ===== */
+.view-btn{
+    width:100%;
+    border:none;
+    padding:13px;
+    border-radius:10px;
+    background:linear-gradient(135deg,#38bdf8,#0ea5e9);
+    color:white;
+    font-size:15px;
+    font-weight:600;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.view-btn:hover{
+    transform:translateY(-2px);
+    box-shadow:0 10px 25px rgba(56,189,248,.4);
+}
+
+/* ===== EMPTY ===== */
+.no-exams{
+    text-align:center;
+    margin-top:60px;
+    color:#94a3b8;
+    font-size:18px;
+}
+
+/* ===== MOBILE ===== */
+@media(max-width:768px){
+
+    .teacher-exams-page{
+        padding:20px;
+    }
+
+    .teacher-exams-header h2{
+        font-size:30px;
+    }
+
+}

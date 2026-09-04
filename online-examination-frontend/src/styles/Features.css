@@ -1,0 +1,43 @@
+.features-page{
+  min-height:100vh;
+  padding:50px 10%;
+  background:#0f172a;
+  color:white;
+}
+
+.features-hero{
+  text-align:center;
+  margin-bottom:60px;
+}
+
+.features-hero h1{
+  font-size:3rem;
+  margin-bottom:15px;
+}
+
+.features-hero p{
+  color:#cbd5e1;
+}
+
+.features-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:25px;
+}
+
+.feature-card{
+  background:rgba(255,255,255,0.05);
+  padding:25px;
+  border-radius:16px;
+  border:1px solid rgba(255,255,255,0.1);
+  transition:.3s;
+}
+
+.feature-card:hover{
+  transform:translateY(-5px);
+}
+
+.feature-card h2{
+  color:#60a5fa;
+  margin-bottom:12px;
+}

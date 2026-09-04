@@ -1,0 +1,180 @@
+/* ===== PAGE ===== */
+.admin-container {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+}
+
+/* ===== TITLE ===== */
+.admin-title {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #1e293b;
+}
+
+/* ===== INPUT ROW ===== */
+.form-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+/* ===== INPUT ===== */
+.input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  font-size: 14px;
+  background: #f8fafc;
+  transition: 0.2s;
+}
+
+.input:focus {
+  border-color: #6366f1;
+  background: #fff;
+  outline: none;
+}
+
+/* ===== CARD ===== */
+.card {
+  background: #ffffff;
+  padding: 18px;
+  border-radius: 14px;
+  margin-top: 15px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.04);
+}
+
+/* ===== CARD TITLE ===== */
+.card-title {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* ===== SELECT ===== */
+.select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+}
+
+/* ===== BUTTONS ===== */
+.btn {
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: 0.2s;
+}
+
+/* ADD QUESTION */
+.btn-add {
+  margin-top: 10px;
+  background: #e0e7ff;
+  color: #4338ca;
+}
+
+.btn-add:hover {
+  background: #c7d2fe;
+}
+
+/* PRIVATE BUTTON */
+.btn-private {
+  margin-top: 10px;
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.btn-private:hover {
+  background: #fde68a;
+}
+
+/* PUBLISH */
+.btn-publish {
+  margin-top: 20px;
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: white;
+}
+
+.btn-publish:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(99,102,241,0.3);
+}
+/* ===== TOGGLE ROW ===== */
+.toggle-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+/* ===== SWITCH ===== */
+.toggle-switch {
+  width: 50px;
+  height: 26px;
+  background: #e5e7eb;
+  border-radius: 20px;
+  position: relative;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* ACTIVE (PRIVATE) */
+.toggle-switch.active {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+}
+
+/* CIRCLE */
+.toggle-circle {
+  width: 22px;
+  height: 22px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  transition: 0.3s;
+}
+
+/* MOVE RIGHT */
+.toggle-switch.active .toggle-circle {
+  transform: translateX(24px);
+}
+/* ===== DATE TIME INPUT ===== */
+input[type="date"],
+input[type="time"]{
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid #dbeafe;
+  background: #f8fafc;
+  font-size: 14px;
+  transition: 0.3s;
+  width: 100%;
+}
+
+input[type="date"]:focus,
+input[type="time"]:focus{
+  outline: none;
+  border-color: #4f46e5;
+  background: #fff;
+  box-shadow: 0 0 0 3px rgba(79,70,229,0.2);
+}
+
+/* label style */
+.input-group{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.input-group label{
+  font-size: 13px;
+  color: #475569;
+}

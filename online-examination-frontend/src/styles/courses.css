@@ -1,0 +1,174 @@
+/* ===== RESET ===== */
+.courses-page {
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ===== PAGE ===== */
+.courses-page{
+  height: 100vh;
+  padding: 20px;
+
+  background: linear-gradient(to bottom, #0f172a, #020617);
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* ===== CONTAINER ===== */
+.courses-container{
+  width: 100%;
+  max-width: 1100px;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/* ===== HEADER ===== */
+.courses-header{
+  text-align: center;
+  margin-bottom: 20px;
+  flex-shrink: 0; /* 🔥 prevent shrinking */
+}
+
+.courses-header h2{
+  font-size: 28px;
+  color: #38bdf8;
+  margin-bottom: 5px;
+}
+
+.courses-header p{
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+/* ===== NO DATA ===== */
+.no-exams{
+  text-align: center;
+  color: #94a3b8;
+  margin-top: 20px;
+}
+
+/* ===== GRID (SCROLL AREA) ===== */
+.exam-grid{
+  flex: 1; /* 🔥 take remaining space */
+  
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  gap: 20px;
+
+  overflow-y: auto; /* ✅ only this scrolls */
+  padding-right: 6px;
+
+  align-content: start; /* 🔥 keep items at top */
+}
+
+/* ===== CUSTOM SCROLLBAR (optional but clean) ===== */
+.exam-grid::-webkit-scrollbar {
+  width: 6px;
+}
+
+.exam-grid::-webkit-scrollbar-thumb {
+  background: rgba(56, 189, 248, 0.4);
+  border-radius: 10px;
+}
+
+.exam-grid::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ===== CARD ===== */
+.exam-card{
+  overflow: visible;
+  background: linear-gradient(
+    145deg,
+    rgba(15, 23, 42, 0.95),
+    rgba(2, 6, 23, 0.95)
+  );
+
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  border-radius: 16px;
+  padding: 20px;
+
+  transition: all 0.3s ease;
+  border: 1px solid rgba(56, 189, 248, 0.15);
+
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+/* Hover */
+.exam-card:hover{
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.7);
+  border-color: rgba(56, 189, 248, 0.4);
+}
+
+/* ===== TITLE ===== */
+.exam-card-top h3{
+  font-size: 18px;
+  color: #ffffff;
+}
+
+/* ===== INFO ===== */
+.exam-info{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.exam-info div{
+  text-align: center;
+}
+
+.exam-info span{
+  display: block;
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+.exam-info strong{
+  font-size: 16px;
+  color: #7798c4;
+}
+
+/* ===== BUTTON ===== */
+.view-btn{
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  position: relative;
+  background: linear-gradient(135deg, #0ea5e9, #38bdf8);
+  color: white;
+  font-weight: 500;
+  z-index: 2;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.view-btn:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(14,165,233,0.6);
+}
+
+/* ===== LOADING ===== */
+.courses-page p{
+  text-align: center;
+  color: #94a3b8;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px){
+  .courses-page{
+    padding: 15px;
+  }
+
+  .courses-header h2{
+    font-size: 24px;
+  }
+}
