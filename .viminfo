@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1789217882,,"wq!"
+|2,0,1789219114,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,50 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/code/code1
-|4,48,1,2,1789217882,"~/code/code1"
-'1  1  2  ~/code1
-|4,49,1,2,1789217719,"~/code1"
-'2  1  5  ~/aws-multi-tier-online-examination-system/m
-|4,50,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
-'3  1  6  ~/aws-multi-tier-online-examination-system/s
-|4,51,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
-'4  1  8  ~/aws-multi-tier-online-examination-system/practice
-|4,52,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
-'5  2  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,53,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
-'6  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,54,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
-'7  1  10  ~/aws-multi-tier-online-examination-system/online-examination-frontend/achuu
-|4,55,1,10,1789212576,"~/aws-multi-tier-online-examination-system/online-examination-frontend/achuu"
-'8  1  7  ~/aws-multi-tier-online-examination-system/test1
-|4,56,1,7,1789211556,"~/aws-multi-tier-online-examination-system/test1"
-'9  1  11  ~/aws-multi-tier-online-examination-system/online-examination-backend/test
-|4,57,1,11,1789210421,"~/aws-multi-tier-online-examination-system/online-examination-backend/test"
+'0  1  1  ~/m
+|4,48,1,1,1789219114,"~/m"
+'1  1  2  ~/code/code1
+|4,49,1,2,1789217882,"~/code/code1"
+'2  1  2  ~/code1
+|4,50,1,2,1789217719,"~/code1"
+'3  1  5  ~/aws-multi-tier-online-examination-system/m
+|4,51,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
+'4  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,52,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+'5  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,53,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+'6  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,54,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
+'7  1  17  ~/aws-multi-tier-online-examination-system/visanth
+|4,55,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
+'8  1  10  ~/aws-multi-tier-online-examination-system/online-examination-frontend/achuu
+|4,56,1,10,1789212576,"~/aws-multi-tier-online-examination-system/online-examination-frontend/achuu"
+'9  1  7  ~/aws-multi-tier-online-examination-system/test1
+|4,57,1,7,1789211556,"~/aws-multi-tier-online-examination-system/test1"
 
 # Jumplist (newest first):
+-'  1  1  ~/m
+|4,39,1,1,1789219114,"~/m"
+-'  1  2  ~/code/code1
+|4,39,1,2,1789217882,"~/code/code1"
 -'  1  2  ~/code/code1
 |4,39,1,2,1789217882,"~/code/code1"
 -'  1  2  ~/code1
 |4,39,1,2,1789217719,"~/code1"
 -'  1  2  ~/code1
 |4,39,1,2,1789217719,"~/code1"
+-'  1  2  ~/code1
+|4,39,1,2,1789217719,"~/code1"
+-'  1  2  ~/code1
+|4,39,1,2,1789217719,"~/code1"
+-'  1  5  ~/aws-multi-tier-online-examination-system/m
+|4,39,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
+-'  1  5  ~/aws-multi-tier-online-examination-system/m
+|4,39,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
+-'  1  5  ~/aws-multi-tier-online-examination-system/m
+|4,39,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
+-'  1  5  ~/aws-multi-tier-online-examination-system/m
+|4,39,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
 -'  1  5  ~/aws-multi-tier-online-examination-system/m
 |4,39,1,5,1789215931,"~/aws-multi-tier-online-examination-system/m"
 -'  1  5  ~/aws-multi-tier-online-examination-system/m
@@ -77,6 +93,54 @@
 |4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
 -'  1  6  ~/aws-multi-tier-online-examination-system/s
 |4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  6  ~/aws-multi-tier-online-examination-system/s
+|4,39,1,6,1789215756,"~/aws-multi-tier-online-examination-system/s"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
+-'  1  8  ~/aws-multi-tier-online-examination-system/practice
+|4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
 -'  1  8  ~/aws-multi-tier-online-examination-system/practice
 |4,39,1,8,1789215155,"~/aws-multi-tier-online-examination-system/practice"
 -'  1  8  ~/aws-multi-tier-online-examination-system/practice
@@ -173,82 +237,25 @@
 |4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
 -'  2  0  ~/aws-multi-tier-online-examination-system/code/name
 |4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  0  ~/aws-multi-tier-online-examination-system/code/name
-|4,39,1,0,1789214646,"~/aws-multi-tier-online-examination-system/code/name"
--'  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,39,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
--'  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,39,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
--'  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,39,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
--'  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,39,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
--'  1  17  ~/aws-multi-tier-online-examination-system/visanth
-|4,39,1,17,1789213327,"~/aws-multi-tier-online-examination-system/visanth"
+-'  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
+-'  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
+-'  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
+-'  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
+-'  2  0  ~/aws-multi-tier-online-examination-system/code/name
+|4,39,2,0,1789214656,"~/aws-multi-tier-online-examination-system/code/name"
 
 # History of marks within files (newest to oldest):
+
+> ~/m
+	*	1789219111	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
 
 > ~/code/code1
 	*	1789217877	0
